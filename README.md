@@ -1,2 +1,1 @@
-# AI.GITHUB
-LAB EXPERIMENT
+This repository is created for experiment 2
